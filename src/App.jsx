@@ -1,5 +1,5 @@
 import AddTasks from "./components/AddTasks";
-import Tasks from "./components/tasks";
+import Tasks from "./components/Tasks.jsx";
 import { useState } from "react";
 import { v4 } from "uuid";
 import Title from "./components/Title";
